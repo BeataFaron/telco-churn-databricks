@@ -1,0 +1,18 @@
+# Ignore Databricks checkpoints and configs
+.ipynb_checkpoints
+.databricks
+
+# Python cache files
+__pycache__
+.pyc
+
+# VSCode or IDE configs (optional)
+.vscode
+.idea
+
+# Avoid large binary files (you can track them manually)
+resources.pkl
+
+# System files
+.DS_Store
+Thumbs.db
